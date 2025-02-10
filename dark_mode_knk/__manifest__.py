@@ -3,7 +3,7 @@
 # © 2020 Kanak Infosystems LLP. (<https://www.kanakinfosystems.com>).
 
 {
-    'name': 'Dark mode',
+    'name': 'Dark mode testtttt',
     'version': '18.0.1.0',
     'summary': 'Dark Mode is an extension that helps you quickly turn the screen (browser) to dark in Odoo. This dark mode backend theme gives you a fully modified view with a full-screen display. It is a perfect choice for your Odoo Backend and an attractive theme for Odoo. | apps night mode | dark mode| night mode | enable dark mode | odoo night mode |',
     'description': """
